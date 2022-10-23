@@ -1,4 +1,5 @@
 [comment]: <> (#### 🚀dr模板的python实现🚀)
+## 仓库在[master分支](https://github.com/celetor/dr_py/tree/master)
 <div align="center">
 <h4>🚀第二派-dr模板的python实现🚀</h4>
   <a href="https://alist.nn.ci"><img height="100px" alt="logo" src="https://gitcode.net/qq_32394351/dr_py/-/raw/1fe0e082b1ceacc4469d7f175a605cc2edf0bab0/static/img/icon.png"/></a>
