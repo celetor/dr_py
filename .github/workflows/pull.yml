@@ -9,8 +9,8 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     env:
-      repoUrl: https://gitcode.net/qq_32394351/dr_py.git
-      repoBranch: master
+      repoUrl: https://github.com/hjdhnx/dr_py.git
+      repoBranch: main
     steps:
       - name: Checkout
         uses: actions/checkout@v3
